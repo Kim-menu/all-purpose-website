@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/all-purpose-website/static/js/main.8363f0db.js",
+    "index.html": "/all-purpose-website/index.html",
+    "main.8363f0db.js.map": "/all-purpose-website/static/js/main.8363f0db.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.8363f0db.js"
+  ]
+}
